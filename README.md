@@ -61,10 +61,4 @@ Estudiante de Ingeniería en Sistemas, Tecnológico de Colima.
 
 * GitHub: [@esdrasbasurto6-afk](https://www.google.com/search?q=https://github.com/esdrasbasurto6-afk)
 
----
 
-
-
-```
-
-```
