@@ -63,7 +63,7 @@ Estudiante de Ingeniería en Sistemas, Tecnológico de Colima.
 
 ---
 
-*Este proyecto fue desarrollado como parte de la construcción de aplicaciones web y bases de datos relacionales.*
+
 
 ```
 
